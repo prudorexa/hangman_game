@@ -1,7 +1,7 @@
 import random
 
 print("Welcome to hangman")
-print("-------------------------------------------")
+print("-----------------------------")
 
 wordDictionary = ["bulldog", "letter", "animal", "flower","faulty","maltese", "bacon", "united", "follow"]
 
